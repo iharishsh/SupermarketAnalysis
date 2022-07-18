@@ -8,8 +8,7 @@ The first project of sale analysis done using MsExcel and PowerBi.
 
 From Power Bi
 
-![sma](https://user-images.githubusercontent.com/95925716/179385461-b537479d-d76e-4509-adca-a189834c874f.gif)
-
+![sma](https://user-images.githubusercontent.com/95925716/179451383-c22a5c8d-dc60-4f45-a0fb-b57abde7332d.gif)
 
 ## Dataset
 Kaggle - https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
